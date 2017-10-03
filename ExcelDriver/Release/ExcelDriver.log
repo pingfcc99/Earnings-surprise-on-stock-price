@@ -1,0 +1,9 @@
+﻿  stock.cpp
+stock.cpp(182): warning C4018: '<': signed/unsigned mismatch
+stock.cpp(212): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Stock *' (or there is no acceptable conversion)
+  d:\spring 2017\financial computing\team project\my group\final version - copy\0507 edited\exceldriver\stock.h(37): note: could be 'Stock &Stock::operator =(Stock &&) noexcept(<expr>)'
+  d:\spring 2017\financial computing\team project\my group\final version - copy\0507 edited\exceldriver\stock.h(37): note: or       'Stock &Stock::operator =(const Stock &)'
+  stock.cpp(212): note: while trying to match the argument list '(Stock, Stock *)'
+stock.cpp(256): warning C4018: '<': signed/unsigned mismatch
+stock.cpp(272): warning C4018: '<': signed/unsigned mismatch
+stock.cpp(280): warning C4018: '<': signed/unsigned mismatch
