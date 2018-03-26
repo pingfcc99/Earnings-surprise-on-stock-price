@@ -1,5 +1,6 @@
 # Earnings-surprise-on-stock-price
 Impact of Earnings Surprise on Stock Price (C++) using libcurl and Excel Driver
+
 •	Selected and sorted stocks from S&P 500 into 3 groups based on their earnings and EPS Estimate from Bloomberg terminal
 Group: fiscal 2016 Q3 Data of S&P 500 Stocks from Bloomberg. Beat criteria: Surprise above 10%; Meet Criteria: Surprise between -10%-10%; Miss Criteria: Surprise below -10%
 
